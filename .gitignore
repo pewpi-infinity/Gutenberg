@@ -3,7 +3,12 @@ gutenberg_cache/
 my_book_cache/
 *.json
 *.jsonl
-*.txt
+
+# Output text files (but not requirements.txt)
+classic_literature.txt
+gutenberg_books.txt
+books.txt
+test_output.txt
 
 # Python
 __pycache__/

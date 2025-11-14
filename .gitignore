@@ -11,18 +11,10 @@ books.txt
 test_output.txt
 
 # Python
-# Progress Monitor state files
-progress_state.json
-test_progress.json
-demo_progress.json
-
-# Python cache
 __pycache__/
 *.py[cod]
 *$py.class
 *.so
-
-# Distribution / packaging
 .Python
 build/
 develop-eggs/
@@ -40,11 +32,6 @@ wheels/
 .installed.cfg
 *.egg
 MANIFEST
-
-# Testing
-.pytest_cache/
-.coverage
-htmlcov/
 
 # Virtual environments
 venv/
@@ -69,7 +56,3 @@ htmlcov/
 tmp/
 temp/
 *.tmp
-
-# OS
-.DS_Store
-Thumbs.db

@@ -184,3 +184,23 @@ Open source - feel free to use and modify as needed.
 ### Contributing
 
 Contributions welcome! This system is designed to be simple and focused on preventing partial failures through checkpoints and state persistence.
+---
+
+## 🧱 Research Notes (mixed)
+**Timestamp:** 2025-12-23T11:00:31Z
+
+### 🟨 Extracted Data
+- Repo files: 14
+- Code present: 5
+
+### 🩷 Investigative
+What is missing, blocked, or undefined.
+
+### 🟩 Engineering / Tools
+What advances this repo fastest.
+
+### 🟥 Routes Worth More
+Two next build paths with reasoning.
+
+### 🟧 Decisions
+Immediate next step and why.
